@@ -1,4 +1,5 @@
 # Data Sources for LaGuardia Airport Climate Impact Analysis
+This document lists potential data sources for our project.
 
 ## Primary Data Categories
 
